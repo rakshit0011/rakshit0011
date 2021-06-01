@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rakshit1401
+- 👋 Hi, I’m Rakshit Awasthi, fresher at IIT Roorkee.
 - 👀 I’m interested in Game Development, Web Development, Cyber Security
 - 🌱 I’m currently learning Game Development, DevOps, Web Development, Cyber Security
 - 💞️ I’m looking to collaborate on software development projects
